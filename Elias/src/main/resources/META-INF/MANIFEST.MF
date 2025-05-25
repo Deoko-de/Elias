@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Main-Class: eliasproject.elias.Main
+Class-Path: jfx.incubator.input.jar validatorfx-0.5.0.jar javafx-media-1
+ 7.0.6.jar javafx-controls-17.0.6-win.jar fxgl-core-17.3.jar storage-4.0
+ .17.jar javafx-graphics-17.0.6.jar javafx-swt.jar javafx.base.jar tiles
+ fx-21.0.3.jar javafx-controls-17.0.6.jar javafx.media.jar javafx-web-17
+ .0.6.jar toolboxfx-21.0.3.jar lifecycle-4.0.17.jar javafx-base-17.0.6.j
+ ar javafx.web.jar javafx-swing-17.0.6-win.jar javafx-base-17.0.6-win.ja
+ r controlsfx-11.2.1.jar fxgl-io-17.3.jar jfx.incubator.richtext.jar hea
+ tmap-21.0.3.jar javafx-graphics-17.0.6-win.jar javafx-media-17.0.6-win.
+ jar fxgl-gameplay-17.3.jar toolbox-21.0.5.jar audio-4.0.17.jar util-4.0
+ .17.jar javafx.fxml.jar javafx-fxml-17.0.6.jar countries-21.0.3.jar fxg
+ l-entity-17.3.jar javafx.graphics.jar javafx.controls.jar javafx.swing.
+ jar jdk.jsobject.jar jackson-annotations-2.14.2.jar fxgl-17.3.jar kotli
+ n-stdlib-common-1.8.10.jar javafx-fxml-17.0.6-win.jar kotlin-stdlib-1.8
+ .10.jar fxgl-scene-17.3.jar javafx-swing-17.0.6.jar javafx-web-17.0.6-w
+ in.jar jackson-core-2.14.2.jar annotations-13.0.jar ikonli-javafx-12.3.
+ 1.jar jackson-databind-2.14.2.jar formsfx-core-11.6.0.jar ikonli-core-1
+ 2.3.1.jar
+
